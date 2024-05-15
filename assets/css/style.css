@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/fondo.jpg);
+    background-size: contain;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+#titulo {
+    text-align: center;
+}
+
